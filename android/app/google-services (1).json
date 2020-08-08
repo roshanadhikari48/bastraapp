@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "978627461444",
+    "firebase_url": "https://basstra-app.firebaseio.com",
+    "project_id": "basstra-app",
+    "storage_bucket": "basstra-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978627461444:android:262b3b10efbca91870d711",
+        "android_client_info": {
+          "package_name": "np.adhikariroshan.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978627461444-90pk1araoqdj4avesffkf9advl2lj3s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "np.adhikariroshan.ecommerce",
+            "certificate_hash": "3a23fea0fbfdd50baa370682bc53ae1e39eb50a6"
+          }
+        },
+        {
+          "client_id": "978627461444-na9aki4qopbmol93qvsmddg31mkfbek4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvZKbIhAHFZJUdkI2ltHaqQU78rx82r5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978627461444-na9aki4qopbmol93qvsmddg31mkfbek4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
